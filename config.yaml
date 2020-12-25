@@ -1,6 +1,6 @@
 ---
 baseURL: https://review.aicurious.io/
-title: Review ML
+title: Short Review ML
 theme: hugo-geekdoc
 pygmentsUseClasses: true
 pygmentsCodeFences: true
