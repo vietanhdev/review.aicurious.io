@@ -1,0 +1,13 @@
+---
+more:
+  - name: Posts
+    ref: "/posts"
+    icon: "notification"
+  - name: AICurious.io
+    ref: "https://aicurious.io/"
+    external: true
+    icon: "path"
+  - name: "View Source"
+    ref: "https://github.com/vietanhdev/review.aicurious.io"
+    external: true
+    icon: "github"

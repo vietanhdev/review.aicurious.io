@@ -1,0 +1,32 @@
+---
+baseURL: https://review.aicurious.io/
+title: Review ML
+theme: hugo-geekdoc
+pygmentsUseClasses: true
+pygmentsCodeFences: true
+timeout: 180000
+
+# Geekdoc configuration
+disablePathToLower: true
+enableGitInfo: true
+
+# Needed for mermaid shortcodes
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 1
+    endLevel: 9
+
+params:
+  geekdocToC: 3
+
+  # geekdocRepo: https://github.com/thegeeklab/hugo-geekdoc
+  # geekdocEditPath: edit/master/exampleSite/content
+
+  geekdocSearch: true
+  geekdocSearchShowParent: true
+
+  # geekdocLegalNotice: https://thegeeklab.de/legal-notice/#contact-information
+  # geekdocPrivacyPolicy: https://thegeeklab.de/legal-notice/#privacy-policy
