@@ -3,6 +3,10 @@ more:
   - name: Posts
     ref: "/posts"
     icon: "notification"
+  - name: "Review tài liệu, khoá học"
+    ref: "https://aicurious.io/tai-lieu-va-khoa-hoc-ml/"
+    external: true
+    icon: "path"
   - name: AICurious.io
     ref: "https://aicurious.io/"
     external: true

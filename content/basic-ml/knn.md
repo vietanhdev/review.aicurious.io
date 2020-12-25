@@ -1,5 +1,6 @@
 ---
-title: "Bias - Variance tradeoff"
+title: "K-Nearest Neighbors"
+weight: 40
 ---
 
 TODO. Create pull request [here](https://github.com/vietanhdev/review.aicurious.io/) to contribute.
